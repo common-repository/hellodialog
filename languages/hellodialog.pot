@@ -1,0 +1,285 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Dialog API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jan 13 2017 10:51:35 GMT+0100 (CET)\n"
+"POT-Revision-Date: Thu Apr 13 2017 15:06:13 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Hellodialog"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.hellodialog.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin connects Wordpress to the Hellodialog API."
+msgstr ""
+
+#. Author of the plugin
+msgid "HoltesDesign"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.holtesdesign.nl"
+msgstr ""
+
+#: ../index.php:23
+msgid "This plugin requires the CURL PHP extension"
+msgstr ""
+
+#: ../index.php:28
+msgid "This plugin requires the JSON PHP extension"
+msgstr ""
+
+#: ../index.php:33
+msgid "This plugin requires http_build_query()"
+msgstr ""
+
+#: ../index.php:93 ../index.php:93
+msgid "Fields"
+msgstr ""
+
+#: ../index.php:94 ../index.php:94
+msgid "Settings"
+msgstr ""
+
+#: ../index.php:169
+msgid "Configure the API key first at the settings page to write to the API"
+msgstr ""
+
+#: ../index.php:175
+msgctxt "post type general name"
+msgid "Forms"
+msgstr ""
+
+#: ../index.php:176
+msgctxt "post type singular name"
+msgid "Form"
+msgstr ""
+
+#: ../index.php:177
+msgctxt "admin menu"
+msgid "Forms"
+msgstr ""
+
+#: ../index.php:178
+msgctxt "add new on admin bar"
+msgid "Form"
+msgstr ""
+
+#: ../index.php:179
+msgctxt "forms"
+msgid "Add"
+msgstr ""
+
+#: ../index.php:180
+msgid "Add new form"
+msgstr ""
+
+#: ../index.php:181
+msgid "New form"
+msgstr ""
+
+#: ../index.php:182
+msgid "Edit form"
+msgstr ""
+
+#: ../index.php:183
+msgid "View form"
+msgstr ""
+
+#: ../index.php:184
+msgid "All forms"
+msgstr ""
+
+#: ../index.php:185
+msgid "Search forms"
+msgstr ""
+
+#: ../index.php:186
+msgid "Main form:"
+msgstr ""
+
+#: ../index.php:187
+msgid "No forms found."
+msgstr ""
+
+#: ../index.php:188
+msgid "No forms found in carbage."
+msgstr ""
+
+#: ../index.php:193
+msgid "Description."
+msgstr ""
+
+#. Unique ID
+#: ../index.php:218
+msgid "Available API Fields"
+msgstr ""
+
+#: ../index.php:227
+msgid "Shortcode usage"
+msgstr ""
+
+#: ../index.php:312
+msgid ""
+"Submission cancelled, nonce could not be verified. Please empty cache and "
+"try again"
+msgstr ""
+
+#: ../index.php:324
+msgid "Invalid email format"
+msgstr ""
+
+#: ../index.php:355
+msgid "Function"
+msgstr ""
+
+#: ../index.php:356
+msgid "Context"
+msgstr ""
+
+#: ../index.php:360
+msgid "Form Title"
+msgstr ""
+
+#: ../index.php:364
+msgid "Form Subtitle"
+msgstr ""
+
+#: ../index.php:373 ../views/forms-settings.php:16
+msgid "Fieldname"
+msgstr ""
+
+#: ../index.php:374 ../views/forms-settings.php:17
+msgid "Data type"
+msgstr ""
+
+#: ../index.php:375 ../views/forms-settings.php:18
+msgid "Req."
+msgstr ""
+
+#: ../index.php:376
+msgid "Use in form"
+msgstr ""
+
+#: ../index.php:381 ../views/forms-settings.php:24
+msgid "No"
+msgstr ""
+
+#: ../index.php:383 ../views/forms-settings.php:26
+msgid "Yes"
+msgstr ""
+
+#: ../index.php:483
+msgid "Newsletter Signup"
+msgstr ""
+
+#: ../index.php:488
+msgid ""
+"Irks! An error has occurred in Hellodialog, please refer to your error.log "
+"located in your content/hellodialog directory."
+msgstr ""
+
+#: ../index.php:496
+msgid "Settings saved!"
+msgstr ""
+
+#: ../index.php:517 ../views/admin-settings.php:31
+msgid "API connection OK!"
+msgstr ""
+
+#: ../index.php:520 ../views/admin-settings.php:34
+msgid "Configure the API key first to check the status"
+msgstr ""
+
+#: ../shortcodes/shortcode.php:127
+msgid "Newsletter lists"
+msgstr ""
+
+#: ../shortcodes/shortcode.php:144
+msgid "Submit"
+msgstr ""
+
+#: ../shortcodes/shortcode.php:184
+msgid "Emailaddress is not valid"
+msgstr ""
+
+#: ../views/forms-settings.php:5
+msgid "Available contact fields"
+msgstr ""
+
+#: ../views/forms-settings.php:19
+msgid "User Viewable"
+msgstr ""
+
+#: ../views/forms-settings.php:41
+msgid "Set API key to show available fields"
+msgstr ""
+
+#: ../views/admin-settings.php:10
+msgid "API Key: "
+msgstr ""
+
+#: ../views/admin-settings.php:14
+msgid "API Status: "
+msgstr ""
+
+#: ../views/admin-settings.php:45
+msgid "WooCommerce settings: "
+msgstr ""
+
+#: ../views/admin-settings.php:49
+msgid "Show sign-up checkbox on WooCommerce checkout page"
+msgstr ""
+
+#: ../views/admin-settings.php:53
+msgid "Label title for WooCommerce checkbox"
+msgstr ""
+
+#: ../views/admin-settings.php:59
+msgid "Sign up for newsletter"
+msgstr ""
+
+#: ../views/admin-settings.php:70
+msgid "Message settings: "
+msgstr ""
+
+#: ../views/admin-settings.php:74
+msgid "Success message"
+msgstr ""
+
+#: ../views/forms-fields-meta-box.php:3
+msgid "Select all the fields you want in this form."
+msgstr ""
+
+#: ../views/forms-fields-meta-box.php:13
+msgid "Configure the API key first at the settings page to show the available fields"
+msgstr ""
+
+#: ../views/forms-shortcode-meta-box.php:3
+msgid ""
+"Use the following shortcode in a post, page or widget to use this form in "
+"front-end"
+msgstr ""

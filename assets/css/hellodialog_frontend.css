@@ -1,0 +1,39 @@
+/*-----------------------------------------------------*/
+/* Shortcode form */
+/*-----------------------------------------------------*/
+
+.hd-field {
+	margin-bottom: 15px;
+}
+.hd-field label {
+	font-weight:normal;
+}
+
+.field-text input[type='text'] {
+	width:100%;
+}
+
+.field-date .field-day,
+.field-date .field-month,
+.field-date .field-year {
+	display:inline;
+	margin:0;
+}
+
+.field-date .field-day {
+	margin:0 2% 0 0;
+	width:20%;
+
+}
+.field-date .field-month {
+	margin:0 2% 0 0;
+	width:56%;
+
+}
+.field-date .field-year {
+	width:18%;
+
+}
+.field-dropdown select {
+	width:100%;
+}

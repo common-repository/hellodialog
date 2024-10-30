@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Dialog API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jan 13 2017 10:51:35 GMT+0100 (CET)\n"
+"PO-Revision-Date: Thu Apr 13 2017 15:06:42 GMT+0200 (CEST)\n"
+"Last-Translator: nils <nils@holtesdesign.nl>\n"
+"Language-Team: \n"
+"Language: Dutch\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: nl_NL"
+
+#: ../index.php:355
+msgid "Function"
+msgstr "Functie"
+
+#: ../index.php:356
+msgid "Context"
+msgstr "Context"
+
+#: ../index.php:360
+msgid "Form Title"
+msgstr "Formulier titel"
+
+#: ../index.php:364
+msgid "Form Subtitle"
+msgstr "Formulier subtitel"
+
+#. Name of the plugin
+msgid "Hellodialog"
+msgstr "Hellodialog"
+
+#. URI of the plugin
+msgid "https://www.hellodialog.com"
+msgstr "https://www.hellodialog.com"
+
+#. Description of the plugin
+msgid "This plugin connects Wordpress to the Hellodialog API."
+msgstr "Deze plugin verbindt WordPress met de Hellodialog API."
+
+#. Author of the plugin
+msgid "HoltesDesign"
+msgstr "HoltesDesign"
+
+#. Author URI of the plugin
+msgid "https://www.holtesdesign.nl"
+msgstr "https://holtesdesign.nl"
+
+#: ../index.php:23
+msgid "This plugin requires the CURL PHP extension"
+msgstr "Deze plugin vereist de PHP CURL extensie."
+
+#: ../index.php:28
+msgid "This plugin requires the JSON PHP extension"
+msgstr "Deze plugin vereist de PHP JSON extensie."
+
+#: ../index.php:33
+msgid "This plugin requires http_build_query()"
+msgstr "Deze plugin vereist http_build_query()"
+
+#: ../index.php:93 ../index.php:93
+msgid "Fields"
+msgstr "Velden"
+
+#: ../index.php:94 ../index.php:94
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../index.php:169
+msgid "Configure the API key first at the settings page to write to the API"
+msgstr "Configureer de API key op de settings pagina om de API te gebruiken."
+
+#: ../index.php:175
+msgctxt "post type general name"
+msgid "Forms"
+msgstr "Formulieren"
+
+#: ../index.php:176
+msgctxt "post type singular name"
+msgid "Form"
+msgstr "Formulier"
+
+#: ../index.php:177
+msgctxt "admin menu"
+msgid "Forms"
+msgstr "Formulieren"
+
+#: ../index.php:178
+msgctxt "add new on admin bar"
+msgid "Form"
+msgstr "Formulieren"
+
+#: ../index.php:179
+msgctxt "forms"
+msgid "Add"
+msgstr "Voeg formulier toe"
+
+#: ../index.php:180
+msgid "Add new form"
+msgstr "Voeg nieuw formulier toe"
+
+#: ../index.php:181
+msgid "New form"
+msgstr "Nieuw formulier"
+
+#: ../index.php:182
+msgid "Edit form"
+msgstr "Wijzig formulier"
+
+#: ../index.php:183
+msgid "View form"
+msgstr "Bekijk formulier"
+
+#: ../index.php:184
+msgid "All forms"
+msgstr "Formulieren"
+
+#: ../index.php:185
+msgid "Search forms"
+msgstr "Doorzoek formulieren"
+
+#: ../index.php:186
+msgid "Main form:"
+msgstr "Hoofd formulier:"
+
+#: ../index.php:187
+msgid "No forms found."
+msgstr "Geen formulieren gevonden."
+
+#: ../index.php:188
+msgid "No forms found in carbage."
+msgstr "Geen formulieren gevonden in de prullenbak"
+
+#: ../index.php:193
+msgid "Description."
+msgstr "Omschrijving"
+
+#. Unique ID
+#: ../index.php:218
+msgid "Available API Fields"
+msgstr "Beschikbare API velden"
+
+#: ../index.php:227
+msgid "Shortcode usage"
+msgstr "Shortcode gebruik"
+
+#: ../index.php:312
+msgid ""
+"Submission cancelled, nonce could not be verified. Please empty cache and "
+"try again"
+msgstr ""
+"Inschrijving gestopt, nonce kon niet worden bevestigd. Verwijder je cache en "
+"probeer het opnieuw."
+
+#: ../index.php:324
+msgid "Invalid email format"
+msgstr "Ongeldig email format"
+
+#: ../index.php:373 ../views/forms-settings.php:16
+msgid "Fieldname"
+msgstr "Veldnaam"
+
+#: ../index.php:374 ../views/forms-settings.php:17
+msgid "Data type"
+msgstr "Data type"
+
+#: ../index.php:375 ../views/forms-settings.php:18
+msgid "Req."
+msgstr "Verplicht"
+
+#: ../index.php:376
+msgid "Use in form"
+msgstr "Gebruik in formulier"
+
+#: ../index.php:381 ../views/forms-settings.php:24
+msgid "No"
+msgstr "Nee"
+
+#: ../index.php:383 ../views/forms-settings.php:26
+msgid "Yes"
+msgstr "Ja"
+
+#: ../index.php:483
+msgid "Newsletter Signup"
+msgstr "Inschrijven voor nieuwsbrief"
+
+#: ../index.php:488
+msgid ""
+"Irks! An error has occurred in Hellodialog, please refer to your error.log "
+"located in your content/hellodialog directory."
+msgstr ""
+"Ouch! Een error heeft zich voorgedaan. Check het logbestand in je "
+"content/hellodialog directory voor meer info."
+
+#: ../index.php:496
+msgid "Settings saved!"
+msgstr "Opgeslagen!"
+
+#: ../index.php:517 ../views/admin-settings.php:31
+msgid "API connection OK!"
+msgstr "API connection OK"
+
+#: ../index.php:520 ../views/admin-settings.php:34
+msgid "Configure the API key first to check the status"
+msgstr "Configureer eerst de API sleutel om de status te controleren."
+
+#: ../shortcodes/shortcode.php:127
+msgid "Newsletter lists"
+msgstr "Nieuwsbrieven om in te schrijven"
+
+#: ../shortcodes/shortcode.php:144
+msgid "Submit"
+msgstr "Verstuur"
+
+#: ../shortcodes/shortcode.php:184
+msgid "Emailaddress is not valid"
+msgstr "Emailadres is niet geldig"
+
+#: ../views/forms-settings.php:5
+msgid "Available contact fields"
+msgstr "Beschikbare contactvelden"
+
+#: ../views/forms-settings.php:19
+msgid "User Viewable"
+msgstr "Inzichtbaar voor gebruiker"
+
+#: ../views/forms-settings.php:41
+msgid "Set API key to show available fields"
+msgstr "Stel de API key in om beschikbare velden te tonen"
+
+#: ../views/admin-settings.php:10
+msgid "API Key: "
+msgstr "API sleutel:"
+
+#: ../views/admin-settings.php:14
+msgid "API Status: "
+msgstr "API Status:"
+
+#: ../views/admin-settings.php:45
+msgid "WooCommerce settings: "
+msgstr "WooCommerce instelling:"
+
+#: ../views/admin-settings.php:49
+msgid "Show sign-up checkbox on WooCommerce checkout page"
+msgstr "Toon inschrijfoptie op de afrekenpagina van WooCommerce"
+
+#: ../views/admin-settings.php:53
+msgid "Label title for WooCommerce checkbox"
+msgstr "Label titel voor de inschrijfoptie van WooCommerce"
+
+#: ../views/admin-settings.php:59
+msgid "Sign up for newsletter"
+msgstr "Schrijf in voor nieuwsbrief"
+
+#: ../views/admin-settings.php:70
+msgid "Message settings: "
+msgstr "Bericht instellingen:"
+
+#: ../views/admin-settings.php:74
+msgid "Success message"
+msgstr "Succes bericht"
+
+#: ../views/forms-fields-meta-box.php:3
+msgid "Select all the fields you want in this form."
+msgstr "Selecteer alle velden die je in het formulier wilt hebben."
+
+#: ../views/forms-fields-meta-box.php:13
+msgid "Configure the API key first at the settings page to show the available fields"
+msgstr "Stel de API sleutel eerst in, voordat je de beschikbare velden kunt inzien."
+
+#: ../views/forms-shortcode-meta-box.php:3
+msgid ""
+"Use the following shortcode in a post, page or widget to use this form in "
+"front-end"
+msgstr ""
+"Gebruik de onderstaande shortcode in een post, pagina of widget om het "
+"formulier front-end te tonen."
